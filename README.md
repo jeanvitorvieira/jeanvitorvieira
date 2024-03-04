@@ -2,7 +2,8 @@
 
 - 😀 Como alguns já sabem, me chamo Jean Vitor Vieira, tenho 18 anos e moro na cidade de Criciúma/SC.
 - 🌱 Atualmente eu estou cursando a graduação de Ciência da Computação na Universidade do Extremo Sul Catarinense.
-- 👯 Pretendo usar o GitHub para subir projetos e melhorar minhas habilidades no ramo.
+- 🎓 Concluí o ensino médio integrado com o curso técnico de Informática no Colégio Cedup Abilio Paulo.
+- 💻 Pretendo usar o GitHub para subir projetos e melhorar minhas habilidades no ramo.
 - 🤔 Estou estudando Java, então caso você saiba mais sobre, se sinta livre para me enviar feedbacks.
 - 💬 Me pergunte sobre como desenvolvi a lógica dos meus projetos, isso fará eu pensar mais sobre e, consequentemente, fixar o raciocínio.
 - 📫 E-mail: jeanvitorv0@gmail.com || Linkedin: https://www.linkedin.com/in/jean-vitor-vieira-505203197/
