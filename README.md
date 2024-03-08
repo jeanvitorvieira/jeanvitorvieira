@@ -10,4 +10,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanvitorvieira&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvitorvieira&show_icons=true&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvitorvieira&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
