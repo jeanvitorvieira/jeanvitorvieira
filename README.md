@@ -1,6 +1,6 @@
 ### Olá, pessoal!
 
-- 😀 Como alguns já sabem, me chamo Jean Vitor Vieira, tenho 18 anos e moro na cidade de Criciúma/SC.
+- 😀 Como alguns já sabem, me chamo Jean Vitor Vieira, tenho 19 anos e moro na cidade de Criciúma/SC.
 - 🌱 Atualmente eu estou cursando a graduação de Ciência da Computação na Universidade do Extremo Sul Catarinense.
 - 🎓 Concluí o ensino médio integrado com o curso técnico de Informática no Colégio Cedup Abilio Paulo.
 - 💻 Pretendo usar o GitHub para subir projetos e melhorar minhas habilidades no ramo.
