@@ -1,13 +1,39 @@
-### Olá, pessoal!
+# Hi, I'm Jean Vitor Vieira! 👋
+## Backend Developer | Software Engineering Student | C1 Advanced English
 
-- 😀 Como alguns já sabem, me chamo Jean Vitor Vieira e moro na cidade de Criciúma/SC.
-- 🌱 Atualmente eu estou cursando a graduação de Engenharia de Software na UniSATC.
-- 🎓 Concluí o ensino médio integrado com o curso técnico de Informática no Colégio Cedup Abilio Paulo.
-- 💻 Pretendo usar o GitHub para subir projetos e melhorar minhas habilidades no ramo.
-- 🤔 Estou estudando Java, PHP, alguns frameworks e o básico de frontend, então caso você saiba mais sobre, se sinta livre para me enviar feedbacks.
-- 💬 Me pergunte sobre como desenvolvi a lógica dos meus projetos, isso fará eu pensar mais sobre e, consequentemente, fixar o raciocínio.
-- 📫 E-mail: jeanvitorv0@gmail.com || Linkedin: https://www.linkedin.com/in/jeanvitorvieira
+I'm a Software Engineering student at SATC  focused on building scalable and secure systems. With a solid background in Java and PHP, I am currently pivoting my expertise towards the .NET (C#) ecosystem.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanvitorvieira&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvitorvieira&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+    Languages: C#, Java, PHP, SQL, JavaScript (ES6+). 
+
+    Backend: ASP.NET Core, Spring Boot, Spring Data JPA, CakePHP. 
+
+    Databases: PostgreSQL, MySQL, MariaDB, H2. 
+
+    DevOps & Tools: Git, GitHub, Docker, JUnit, Mockito. 
+
+    Core Concepts: SOLID, Clean Code, RESTful APIs, Clean Architecture. 
+
+
+### 🏆 Featured Projects
+
+    Evently: A robust Event Management API built with Java and Spring Boot, implementing Clean Architecture and Spring Security.
+
+    User Management API: A full CRUD system focused on security, using JWT authentication and comprehensive unit testing. 
+
+### 📈 Achievements & Education
+
+    🎓 B.S. in Software Engineering - SATC (Expected 2028). 
+
+    🥇 1st Place - Startup Weekend Criciúma (2025).
+
+    🇺🇸 EF SET English Certificate: 65/100 (C1 Advanced).
+
+### 📫 Let's Connect!
+
+    LinkedIn: jeanvitorvieira 
+
+    Email: jeanvitorv0@gmail.com 
+
+    💬 Ask me about: Backend logic, architectural patterns, and how I won a Startup Weekend in 54 hours!
